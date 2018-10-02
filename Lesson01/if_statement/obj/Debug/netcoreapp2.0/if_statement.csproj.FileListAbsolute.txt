@@ -1,0 +1,11 @@
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.csprojAssemblyReference.cache
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.deps.json
+c:\users\mchittenden\source\repos\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.runtimeconfig.json
+c:\users\mchittenden\source\repos\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.dll
+c:\users\mchittenden\source\repos\Lesson01\if_statement\bin\Debug\netcoreapp2.0\if_statement.pdb
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.dll
+c:\users\mchittenden\source\repos\Lesson01\if_statement\obj\Debug\netcoreapp2.0\if_statement.pdb

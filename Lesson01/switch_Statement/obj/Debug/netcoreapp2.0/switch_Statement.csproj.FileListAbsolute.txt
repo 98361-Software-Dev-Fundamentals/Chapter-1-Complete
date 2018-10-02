@@ -1,0 +1,11 @@
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.deps.json
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.json
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.dll
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.pdb
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.csprojAssemblyReference.cache
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.dll
+c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.pdb
