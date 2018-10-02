@@ -1,0 +1,11 @@
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.csprojAssemblyReference.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.csproj.CoreCompileInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.AssemblyInfoInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.AssemblyInfo.cs
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\bin\Debug\netcoreapp2.1\foreach_Statement.deps.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\bin\Debug\netcoreapp2.1\foreach_Statement.runtimeconfig.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\bin\Debug\netcoreapp2.1\foreach_Statement.runtimeconfig.dev.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\bin\Debug\netcoreapp2.1\foreach_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\bin\Debug\netcoreapp2.1\foreach_Statement.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\foreach_Statement\obj\Debug\netcoreapp2.1\foreach_Statement.pdb

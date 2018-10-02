@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducingCS", "IntroducingCS\IntroducingCS.csproj", "{46BEBA21-0027-4A53-840D-8D4549829CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroducingCS", "IntroducingCS\IntroducingCS.csproj", "{46BEBA21-0027-4A53-840D-8D4549829CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_statement", "if_statement\if_statement.csproj", "{87EB0165-420E-459C-A351-8ED3D4ADA82C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if_statement", "if_statement\if_statement.csproj", "{87EB0165-420E-459C-A351-8ED3D4ADA82C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelse_Statement", "ifelse_Statement\ifelse_Statement.csproj", "{FD58E3AF-5CB4-40AA-8D9F-36CD0245C691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifelse_Statement", "ifelse_Statement\ifelse_Statement.csproj", "{FD58E3AF-5CB4-40AA-8D9F-36CD0245C691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_Statement", "switch_Statement\switch_Statement.csproj", "{FD885FD5-57B1-4A99-B51A-D5CECECD5505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch_Statement", "switch_Statement\switch_Statement.csproj", "{FD885FD5-57B1-4A99-B51A-D5CECECD5505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_Statement", "while_Statement\while_Statement.csproj", "{09E71965-63A4-4EB7-9485-5C037285C15E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "while_Statement", "while_Statement\while_Statement.csproj", "{09E71965-63A4-4EB7-9485-5C037285C15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doWhile_Statement", "doWhile_Statement\doWhile_Statement.csproj", "{C3522AB6-82C5-4A50-B425-80780DDFE49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_Statement", "for_Statement\for_Statement.csproj", "{B7CD7382-B3B7-46C9-8796-7A1BA44E4ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_Statement", "foreach_Statement\foreach_Statement.csproj", "{F7C20D75-7AA3-4C4E-91C5-6A26F99E6BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursiveFactorialb", "recursiveFactorialb\recursiveFactorialb.csproj", "{344810FB-39D4-4C61-B587-69A10E936D98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{09E71965-63A4-4EB7-9485-5C037285C15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09E71965-63A4-4EB7-9485-5C037285C15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09E71965-63A4-4EB7-9485-5C037285C15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3522AB6-82C5-4A50-B425-80780DDFE49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3522AB6-82C5-4A50-B425-80780DDFE49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3522AB6-82C5-4A50-B425-80780DDFE49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3522AB6-82C5-4A50-B425-80780DDFE49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CD7382-B3B7-46C9-8796-7A1BA44E4ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CD7382-B3B7-46C9-8796-7A1BA44E4ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CD7382-B3B7-46C9-8796-7A1BA44E4ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CD7382-B3B7-46C9-8796-7A1BA44E4ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C20D75-7AA3-4C4E-91C5-6A26F99E6BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C20D75-7AA3-4C4E-91C5-6A26F99E6BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C20D75-7AA3-4C4E-91C5-6A26F99E6BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C20D75-7AA3-4C4E-91C5-6A26F99E6BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344810FB-39D4-4C61-B587-69A10E936D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344810FB-39D4-4C61-B587-69A10E936D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344810FB-39D4-4C61-B587-69A10E936D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344810FB-39D4-4C61-B587-69A10E936D98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

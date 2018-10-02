@@ -9,3 +9,14 @@ c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp
 c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfo.cs
 c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.dll
 c:\users\mchittenden\source\repos\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.deps.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.dev.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.csprojAssemblyReference.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.csproj.CoreCompileInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfoInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfo.cs
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.pdb

@@ -1,0 +1,11 @@
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\bin\Debug\netcoreapp2.1\for_Statement.deps.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\bin\Debug\netcoreapp2.1\for_Statement.runtimeconfig.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\bin\Debug\netcoreapp2.1\for_Statement.runtimeconfig.dev.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\bin\Debug\netcoreapp2.1\for_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\bin\Debug\netcoreapp2.1\for_Statement.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.csprojAssemblyReference.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.csproj.CoreCompileInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.AssemblyInfoInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.AssemblyInfo.cs
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\for_Statement\obj\Debug\netcoreapp2.1\for_Statement.pdb

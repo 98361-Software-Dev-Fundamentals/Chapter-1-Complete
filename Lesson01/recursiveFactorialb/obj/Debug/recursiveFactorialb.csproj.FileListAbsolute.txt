@@ -1,0 +1,7 @@
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\bin\Debug\recursiveFactorialb.exe.config
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\bin\Debug\recursiveFactorialb.exe
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\bin\Debug\recursiveFactorialb.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\obj\Debug\recursiveFactorialb.csprojAssemblyReference.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\obj\Debug\recursiveFactorialb.csproj.CoreCompileInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\obj\Debug\recursiveFactorialb.exe
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\recursiveFactorialb\obj\Debug\recursiveFactorialb.pdb

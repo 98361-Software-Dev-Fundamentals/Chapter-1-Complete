@@ -1,0 +1,11 @@
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.deps.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.dev.json
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.pdb
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.csprojAssemblyReference.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfoInputs.cache
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfo.cs
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.dll
+E:\MTA Software Development Fundamentals (90-361)\Chapter-1\Lesson01\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.pdb

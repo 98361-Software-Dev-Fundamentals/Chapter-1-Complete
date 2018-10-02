@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mchittenden\\.nuget\\packages\\": {},
+    "C:\\Users\\MikeChittenden\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\mchittenden\\source\\repos\\Lesson01\\if_statement\\if_statement.csproj",
+      "projectUniqueName": "E:\\MTA Software Development Fundamentals (90-361)\\Chapter-1\\Lesson01\\if_statement\\if_statement.csproj",
       "projectName": "if_statement",
-      "projectPath": "c:\\users\\mchittenden\\source\\repos\\Lesson01\\if_statement\\if_statement.csproj",
-      "packagesPath": "C:\\Users\\mchittenden\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\mchittenden\\source\\repos\\Lesson01\\if_statement\\obj\\",
+      "projectPath": "E:\\MTA Software Development Fundamentals (90-361)\\Chapter-1\\Lesson01\\if_statement\\if_statement.csproj",
+      "packagesPath": "C:\\Users\\MikeChittenden\\.nuget\\packages\\",
+      "outputPath": "E:\\MTA Software Development Fundamentals (90-361)\\Chapter-1\\Lesson01\\if_statement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mchittenden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MikeChittenden\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
